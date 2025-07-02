@@ -1,0 +1,1 @@
+# qt-budget-manager
